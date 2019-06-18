@@ -1,0 +1,10 @@
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\bin\Debug\FeatureExtractor.exe.config
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\bin\Debug\FeatureExtractor.exe
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\bin\Debug\FeatureExtractor.pdb
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\obj\Debug\FeatureExtractor.csprojAssemblyReference.cache
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\obj\Debug\FeatureExtractor.featureExtractor.resources
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\obj\Debug\FeatureExtractor.Properties.Resources.resources
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\obj\Debug\FeatureExtractor.csproj.GenerateResource.cache
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\obj\Debug\FeatureExtractor.csproj.CoreCompileInputs.cache
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\obj\Debug\FeatureExtractor.exe
+C:\Users\karth\Desktop\FeatureExtractor\FeatureExtractor\obj\Debug\FeatureExtractor.pdb
